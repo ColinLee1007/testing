@@ -6,7 +6,7 @@
 
 using namespace std;
 
-
+//testting push
     Card::Card(){
         suit = 'c';
         rank = 'A';
